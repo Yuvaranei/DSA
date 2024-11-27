@@ -1,0 +1,12 @@
+1. Rotate array from Right-->Left K times
+2. Given N elements & Q queries, sum of all elements from L->R
+3. Given N elements & Q queries, sum of all even indexed elements from L->R
+4. Given N elements & Q queries, sum of all odd indexed elements from L->R
+5. Special Index. An index is said to be special, after removing that index -> 
+    Sum of all odd indexed elements = Sum of all even indexed elements
+6. Given a string, find all the pairs (a, g) where i<j
+7. Print all the subarray when start & end index is given
+8. Print all the subarrays of an array
+
+10. Find the total sum of all possible subarray
+11. Return maximum subarray sum with length K
